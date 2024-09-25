@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Dwiky Andhika
 
-NIM : 
+NIM : 607062400030
 
 ## Instruksi
 
